@@ -11,9 +11,12 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to Herondeals!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Automation at its best <code>Business Solutions</code>
+        </p>
+        <p className="description">
+          A <code>Loading Form</code>
         </p>
       </main>
 
